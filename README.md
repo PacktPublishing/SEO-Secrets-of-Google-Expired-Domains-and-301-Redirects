@@ -24,7 +24,7 @@ Did you know that Buying EXPIRED DOMAINS and then redirecting them using a 301 R
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 <DIV class=book-info-will-learn-text>
-Online MarketersEveryone with a WebsiteSEO Marketers & EngineersBrick & Mortar BusinessesEveryone with a ProductLink BuildersBloggersContent Creators who want to get more traffic from their work
+<li>Online MarketersEveryone with a WebsiteSEO Marketers & EngineersBrick & Mortar BusinessesEveryone with a ProductLink BuildersBloggersContent Creators who want to get more traffic from their work</li>
 <DIV>
 
 ### Technical Requirements
