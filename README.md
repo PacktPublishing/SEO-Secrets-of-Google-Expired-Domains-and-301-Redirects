@@ -1,6 +1,8 @@
-# SEO Secrets of Google: Expired Domains and 301 Redirects [Video]
-This is the code repository for SEO Secrets of Google: Expired Domains and 301 Redirects [Video]
-(https://www.packtpub.com/web-development/seo-secrets-google-expired-domains-and-301-redirects-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+
+
+
+# Software Automation Using Puppet For Beginners [Video]
+This is the code repository for Software Automation Using Puppet For Beginners [Video](https://www.packtpub.com/virtualization-and-cloud/software-automation-using-puppet-beginners-video?utm_source=github&utm_medium=repository&utm_campaign=9781789614053), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 About
 
