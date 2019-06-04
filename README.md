@@ -1,6 +1,6 @@
 # SEO Secrets of Google: Expired Domains and 301 Redirects [Video]
 This is the code repository for SEO Secrets of Google: Expired Domains and 301 Redirects [Video]
-(https://www2.packtpub.com/web-development/seo-secrets-google-expired-domains-and-301-redirects-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+(https://www.packtpub.com/web-development/seo-secrets-google-expired-domains-and-301-redirects-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 About
 
